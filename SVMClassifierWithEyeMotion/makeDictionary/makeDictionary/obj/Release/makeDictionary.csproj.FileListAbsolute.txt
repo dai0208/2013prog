@@ -1,0 +1,9 @@
+G:\SVMClassifierWithEyeMotion\makeDictionary\makeDictionary\bin\Release\makeDictionary.dll
+G:\SVMClassifierWithEyeMotion\makeDictionary\makeDictionary\bin\Release\makeDictionary.pdb
+G:\SVMClassifierWithEyeMotion\makeDictionary\makeDictionary\bin\Release\DoPCA.dll
+G:\SVMClassifierWithEyeMotion\makeDictionary\makeDictionary\bin\Release\MatrixVector.dll
+G:\SVMClassifierWithEyeMotion\makeDictionary\makeDictionary\bin\Release\DoPCA.pdb
+G:\SVMClassifierWithEyeMotion\makeDictionary\makeDictionary\bin\Release\MatrixVector.pdb
+G:\SVMClassifierWithEyeMotion\makeDictionary\makeDictionary\obj\Release\makeDictionary.dll
+G:\SVMClassifierWithEyeMotion\makeDictionary\makeDictionary\obj\Release\makeDictionary.pdb
+G:\SVMClassifierWithEyeMotion\makeDictionary\makeDictionary\bin\Release\MatrixVector.xml

@@ -1,0 +1,7 @@
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\FisherClassifier\FisherClassifier\bin\Release\FisherClassifier.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\FisherClassifier\FisherClassifier\bin\Release\FisherClassifier.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\FisherClassifier\FisherClassifier\bin\Release\MatrixVector.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\FisherClassifier\FisherClassifier\bin\Release\MatrixVector.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\FisherClassifier\FisherClassifier\obj\Release\FisherClassifier.csprojResolveAssemblyReference.cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\FisherClassifier\FisherClassifier\obj\Release\FisherClassifier.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\FisherClassifier\FisherClassifier\obj\Release\FisherClassifier.pdb

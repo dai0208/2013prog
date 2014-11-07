@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PairedComparison">
+</Property><Property Name="ソリューション ファイル" Value="Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison.suo">
+</Property><Property Name="Date" Value="2013年11月15日">
+</Property><Property Name="Time" Value="15:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PairedComparison.sln" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="PairedComparison.suo" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\PairedComparison.csproj" Description="プロジェクト ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\PairedComparison.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\cDataManager.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\cDataManager.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\cImageList.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\cImageList.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\DataManagerRandom.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\DataManagerRandom.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\fmLoadFolder.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\fmLoadFolder.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\fmLoadFolder.Designer.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\fmLoadFolder.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\fmStart.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\fmStart.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\fmStart.Designer.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\fmStart.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\fmBack.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\fmBack.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\fmBack.Designer.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\fmBack.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\Program.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\Program.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\Properties\AssemblyInfo.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\Properties\Resources.Designer.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\Properties\Resources.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\Properties\Settings.Designer.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\Properties\Settings.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\Properties\Settings.settings" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\Properties\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\fmBack.resx" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\fmBack.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\fmLoadFolder.resx" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\fmLoadFolder.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\fmStart.resx" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\fmStart.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\Properties\Resources.resx" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\Backup\PairedComparison\Properties\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\PairedComparison.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="PairedComparison" Source="PairedComparison\PairedComparison.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PairedComparison.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="PairedComparison.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PairedComparison" Source="PairedComparison\PairedComparison.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

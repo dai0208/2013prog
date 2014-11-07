@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairedComparison", "PairedComparison\PairedComparison.csproj", "{0D75E404-F271-4129-BD34-35901C0C5DA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailManager", "..\MailManager\MailManager.csproj", "{0DEF189C-64C3-4257-90A6-C155C0FF0C32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D75E404-F271-4129-BD34-35901C0C5DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D75E404-F271-4129-BD34-35901C0C5DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D75E404-F271-4129-BD34-35901C0C5DA5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D75E404-F271-4129-BD34-35901C0C5DA5}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{0DEF189C-64C3-4257-90A6-C155C0FF0C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEF189C-64C3-4257-90A6-C155C0FF0C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEF189C-64C3-4257-90A6-C155C0FF0C32}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEF189C-64C3-4257-90A6-C155C0FF0C32}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

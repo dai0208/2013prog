@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DoPCA">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\yuki1008\Desktop\PCA\DoPCA\DoPCA.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\Users\yuki1008\Desktop\PCA\DoPCA\DoPCA.suo">
+</Property><Property Name="Date" Value="2013年11月15日">
+</Property><Property Name="Time" Value="18:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DoPCA.sln" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\DoPCA.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="DoPCA.suo" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\DoPCA.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DoPCA" Source="DoPCA.csproj" Description="プロジェクト ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\DoPCA.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DoPCA" Source="EnumPCASource.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\EnumPCASource.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DoPCA" Source="fmLog.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\fmLog.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DoPCA" Source="fmLog.Designer.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\fmLog.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DoPCA" Source="fmMain.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\fmMain.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DoPCA" Source="fmMain.Designer.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\fmMain.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DoPCA" Source="PCAData.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\PCAData.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DoPCA" Source="PCABaseManager.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\PCABaseManager.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DoPCA" Source="Properties\AssemblyInfo.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DoPCA" Source="fmLog.resx" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\fmLog.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DoPCA" Source="fmMain.resx" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\fmMain.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="DoPCA" Source="DoPCA.csproj" Description="プロジェクト ファイルは変換する必要がありません。">
+</Event><Event ErrorLevel="3" Project="DoPCA" Source="DoPCA.csproj" Description="変換の必要はありません">
+</Event><Event ErrorLevel="1" Project="RestructurePCA" Source="..\RestructurePCA\RestructurePCA.csproj" Description="警告: プロジェクト ファイルは、元のソリューションの相対パスとは異なる相対パスにバックアップされています。フォルダー階層の違いにより、バックアップされたソリューションおよびプロジェクトを開いたり作成したりするときに、問題が発生する可能性があります。">
+</Event><Event ErrorLevel="2" Project="RestructurePCA" Source="..\RestructurePCA\RestructurePCA.csproj" Description="更新を実行するためにプロジェクト ファイルを開けません。  ">
+</Event><Event ErrorLevel="1" Project="MutualConversion" Source="..\MutualConversion\MutualConversion.csproj" Description="警告: プロジェクト ファイルは、元のソリューションの相対パスとは異なる相対パスにバックアップされています。フォルダー階層の違いにより、バックアップされたソリューションおよびプロジェクトを開いたり作成したりするときに、問題が発生する可能性があります。">
+</Event><Event ErrorLevel="2" Project="MutualConversion" Source="..\MutualConversion\MutualConversion.csproj" Description="更新を実行するためにプロジェクト ファイルを開けません。  ">
+</Event><Event ErrorLevel="1" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\MatrixVector.csproj" Description="警告: プロジェクト ファイルは、元のソリューションの相対パスとは異なる相対パスにバックアップされています。フォルダー階層の違いにより、バックアップされたソリューションおよびプロジェクトを開いたり作成したりするときに、問題が発生する可能性があります。">
+</Event><Event ErrorLevel="0" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\MatrixVector.csproj" Description="プロジェクト ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\MatrixVector\MatrixVector.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\ColumnVector.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\MatrixVector\ColumnVector.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\EigenSystem.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\MatrixVector\EigenSystem.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\EigenVectorAndValue.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\MatrixVector\EigenVectorAndValue.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\Matrix.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\MatrixVector\Matrix.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\RowVector.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\MatrixVector\RowVector.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\SquareMatrix.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\MatrixVector\SquareMatrix.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\SymmetricMatrix.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\MatrixVector\SymmetricMatrix.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\ValueAndIndex.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\MatrixVector\ValueAndIndex.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\Vector.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\MatrixVector\Vector.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\Properties\AssemblyInfo.cs" Description="ファイルは正常に C:\Users\yuki1008\Desktop\PCA\DoPCA\Backup\MatrixVector\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\MatrixVector.csproj" Description="プロジェクト ファイルは変換する必要がありません。">
+</Event><Event ErrorLevel="3" Project="MatrixVector" Source="..\MatrixVector\MatrixVector\MatrixVector.csproj" Description="変換の必要はありません">
+</Event><Event ErrorLevel="1" Project="cBitmap" Source="..\cBitmap\cBitmap.csproj" Description="警告: プロジェクト ファイルは、元のソリューションの相対パスとは異なる相対パスにバックアップされています。フォルダー階層の違いにより、バックアップされたソリューションおよびプロジェクトを開いたり作成したりするときに、問題が発生する可能性があります。">
+</Event><Event ErrorLevel="2" Project="cBitmap" Source="..\cBitmap\cBitmap.csproj" Description="更新を実行するためにプロジェクト ファイルを開けません。  ">
+</Event><Event ErrorLevel="0" Project="" Source="DoPCA.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="DoPCA.sln" Description="Converted">
+</Event></UpgradeLog>

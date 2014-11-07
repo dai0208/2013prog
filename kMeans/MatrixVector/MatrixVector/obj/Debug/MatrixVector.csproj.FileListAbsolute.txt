@@ -1,0 +1,130 @@
+E:\VisualStudioProject\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+E:\VisualStudioProject\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+E:\VisualStudioProject\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+E:\VisualStudioProject\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+E:\VisualStudioProject\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\test\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+C:\Documents and Settings\e05d5022\デスクトップ\test\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\test\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\test\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+C:\Documents and Settings\e05d5022\デスクトップ\test\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+H:\test\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+H:\test\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+H:\test\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+H:\test\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+H:\test\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+E:\VisualStudioProject\MatrixVectorCol\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+E:\VisualStudioProject\MatrixVectorCol\MatrixVector\obj\Debug\MatrixVector.dll
+E:\VisualStudioProject\MatrixVectorCol\MatrixVector\obj\Debug\MatrixVector.pdb
+E:\VisualStudioProject\MatrixVectorCol\MatrixVector\bin\Debug\MatrixVector.dll
+E:\VisualStudioProject\MatrixVectorCol\MatrixVector\bin\Debug\MatrixVector.pdb
+E:\VisualStudioProject\MatrixVectorCol\MatrixVector\bin\Debug\MatrixVector.XML
+E:\VisualStudioProject\コピー (2) ～ MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+E:\VisualStudioProject\コピー (2) ～ MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+E:\VisualStudioProject\コピー (2) ～ MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+E:\VisualStudioProject\コピー (2) ～ MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+E:\VisualStudioProject\コピー (2) ～ MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+E:\VisualStudioProject\コピー (2) ～ MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+E:\VisualStudioProject\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+E:\VisualStudioProject\SE\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+E:\VisualStudioProject\SE\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+E:\VisualStudioProject\SE\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+E:\VisualStudioProject\SE\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+E:\VisualStudioProject\SE\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+E:\VisualStudioProject\SE\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+C:\Documents and Settings\shiro\デスクトップ\Project\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+C:\Documents and Settings\shiro\デスクトップ\Project\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\Project\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+C:\Documents and Settings\shiro\デスクトップ\Project\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.10.30.河内)\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+H:\解凍済みデータ\Project(08.11.06.河内)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+H:\解凍済みデータ\Project(08.11.06.河内)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+H:\解凍済みデータ\Project(08.11.06.河内)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+H:\解凍済みデータ\Project(08.11.06.河内)\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.06.河内)\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+H:\解凍済みデータ\Project(08.11.06.河内)\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.07 稲葉)\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.11.08 稲葉)\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内最新)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内最新)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内最新)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内最新)\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内最新)\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.11.11.河内最新)\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+H:\解凍済みデータ\Project(08.11.17 河内）\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+H:\解凍済みデータ\Project(08.11.17 河内）\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+H:\解凍済みデータ\Project(08.11.17 河内）\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+H:\解凍済みデータ\Project(08.11.17 河内）\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.12.24.河内)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.12.24.河内)\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(08.12.24.河内)\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\Project(08.12.24.河内)\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+C:\Documents and Settings\shiro\デスクトップ\Project(08.12.24.河内)\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+D:\_BackUP\320GB SATA1\My Documents\Visual Studio 2008\Projects\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+D:\_BackUP\320GB SATA1\My Documents\Visual Studio 2008\Projects\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+D:\_BackUP\320GB SATA1\My Documents\Visual Studio 2008\Projects\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+D:\_BackUP\320GB SATA1\My Documents\Visual Studio 2008\Projects\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+D:\_BackUP\320GB SATA1\My Documents\Visual Studio 2008\Projects\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+D:\_BackUP\320GB SATA1\My Documents\Visual Studio 2008\Projects\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+E:\My Document\Visual Studio 2008\Project\2008年度作成\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+E:\My Document\Visual Studio 2008\Project\2008年度作成\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+E:\My Document\Visual Studio 2008\Project\2008年度作成\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+E:\My Document\Visual Studio 2008\Project\2008年度作成\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+E:\My Document\Visual Studio 2008\Project\2008年度作成\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+E:\My Document\Visual Studio 2008\Project\2008年度作成\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+E:\VisualStudioProject\2008年度\2008年度作成プログラム\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+E:\VisualStudioProject\2008年度\2008年度作成プログラム\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+E:\VisualStudioProject\2008年度\2008年度作成プログラム\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+E:\VisualStudioProject\2008年度\2008年度作成プログラム\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+E:\VisualStudioProject\2008年度\2008年度作成プログラム\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+C:\Users\shiro\Documents\Visual Studio 2008\Projects\2008年度\2008年度作成プログラム\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+C:\Users\shiro\Documents\Visual Studio 2008\Projects\2008年度\2008年度作成プログラム\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+C:\Users\shiro\Documents\Visual Studio 2008\Projects\2008年度\2008年度作成プログラム\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+C:\Users\shiro\Documents\Visual Studio 2008\Projects\2008年度\2008年度作成プログラム\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiro\Documents\Visual Studio 2008\Projects\2008年度\2008年度作成プログラム\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+C:\Users\shiro\Documents\Visual Studio 2008\Projects\2008年度\2008年度作成プログラム\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+C:\Users\shiro\Desktop\FaceData\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+C:\Users\shiro\Desktop\FaceData\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+C:\Users\shiro\Desktop\FaceData\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+C:\Users\shiro\Desktop\FaceData\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiro\Desktop\FaceData\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+C:\Users\shiro\Desktop\FaceData\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+C:\Users\HATSUNE\Desktop\FaceData\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+C:\Users\HATSUNE\Desktop\FaceData\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+C:\Users\HATSUNE\Desktop\FaceData\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+C:\Users\HATSUNE\Desktop\FaceData\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HATSUNE\Desktop\FaceData\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+C:\Users\HATSUNE\Desktop\FaceData\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+C:\Users\HATSUNE\Documents\Visual Studio 2010\Projects\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+C:\Users\HATSUNE\Documents\Visual Studio 2010\Projects\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+C:\Users\HATSUNE\Documents\Visual Studio 2010\Projects\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+C:\Users\HATSUNE\Documents\Visual Studio 2010\Projects\MatrixVector\MatrixVector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HATSUNE\Documents\Visual Studio 2010\Projects\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+C:\Users\HATSUNE\Documents\Visual Studio 2010\Projects\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\kMeans\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\kMeans\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\kMeans\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\kMeans\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\kMeans\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb
+\\2ND_TERA\share\2013年度\B4\荒井(雄)\つくったプログラム\kMeans\MatrixVector\MatrixVector\bin\Debug\MatrixVector.XML
+\\2ND_TERA\share\2013年度\B4\荒井(雄)\つくったプログラム\kMeans\MatrixVector\MatrixVector\bin\Debug\MatrixVector.dll
+\\2ND_TERA\share\2013年度\B4\荒井(雄)\つくったプログラム\kMeans\MatrixVector\MatrixVector\bin\Debug\MatrixVector.pdb
+\\2ND_TERA\share\2013年度\B4\荒井(雄)\つくったプログラム\kMeans\MatrixVector\MatrixVector\obj\Debug\MatrixVector.csprojResolveAssemblyReference.cache
+\\2ND_TERA\share\2013年度\B4\荒井(雄)\つくったプログラム\kMeans\MatrixVector\MatrixVector\obj\Debug\MatrixVector.dll
+\\2ND_TERA\share\2013年度\B4\荒井(雄)\つくったプログラム\kMeans\MatrixVector\MatrixVector\obj\Debug\MatrixVector.pdb

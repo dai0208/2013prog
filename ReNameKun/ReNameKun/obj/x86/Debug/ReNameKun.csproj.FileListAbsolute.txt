@@ -1,0 +1,18 @@
+C:\Users\yvgqi\AppData\Local\Temporary Projects\ReNameKun\bin\Debug\ReNameKun.exe
+C:\Users\yvgqi\AppData\Local\Temporary Projects\ReNameKun\bin\Debug\ReNameKun.pdb
+C:\Users\yvgqi\AppData\Local\Temporary Projects\ReNameKun\obj\x86\Debug\ReNameKun.Form1.resources
+C:\Users\yvgqi\AppData\Local\Temporary Projects\ReNameKun\obj\x86\Debug\ReNameKun.Properties.Resources.resources
+C:\Users\yvgqi\AppData\Local\Temporary Projects\ReNameKun\obj\x86\Debug\ReNameKun.csproj.GenerateResource.Cache
+C:\Users\yvgqi\AppData\Local\Temporary Projects\ReNameKun\obj\x86\Debug\ReNameKun.exe
+C:\Users\yvgqi\AppData\Local\Temporary Projects\ReNameKun\obj\x86\Debug\ReNameKun.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\ReNameKun\ReNameKun\obj\x86\Debug\ReNameKun.exe
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\ReNameKun\ReNameKun\obj\x86\Debug\ReNameKun.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\ReNameKun\ReNameKun\obj\x86\Debug\ReNameKun.Form1.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\ReNameKun\ReNameKun\obj\x86\Debug\ReNameKun.Properties.Resources.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\ReNameKun\ReNameKun\bin\Debug\ReNameKun.exe
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\ReNameKun\ReNameKun\bin\Debug\ReNameKun.pdb
+\\2ND_TERA\share\2013年度\B4\荒井(雄)\つくったプログラム\ReNameKun\ReNameKun\obj\x86\Debug\ReNameKun.exe
+\\2ND_TERA\share\2013年度\B4\荒井(雄)\つくったプログラム\ReNameKun\ReNameKun\obj\x86\Debug\ReNameKun.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\ReNameKun\ReNameKun\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\ReNameKun\ReNameKun\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\ReNameKun\ReNameKun\obj\x86\Debug\GenerateResource.write.1.tlog

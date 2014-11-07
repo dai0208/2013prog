@@ -1,0 +1,4 @@
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\MailManager\bin\Release\MailManager.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\MailManager\bin\Release\MailManager.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\MailManager\obj\Release\MailManager.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\MailManager\obj\Release\MailManager.pdb

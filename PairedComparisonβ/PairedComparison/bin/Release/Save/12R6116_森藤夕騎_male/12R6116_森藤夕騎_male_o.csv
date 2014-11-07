@@ -1,0 +1,6 @@
+,Fisher+1.0_mae_o.bmp,Fisher+2.0_mae_o.bmp,Norm_mae_o.bmp,SVM+1.0_mae_o.bmp,SVM+2.0_mae_o.bmp
+Fisher+1.0_mae_o.bmp,0,0,1,1,0
+Fisher+2.0_mae_o.bmp,1,0,0,1,1
+Norm_mae_o.bmp,0,1,0,1,1
+SVM+1.0_mae_o.bmp,0,0,0,0,1
+SVM+2.0_mae_o.bmp,1,0,0,0,0

@@ -1,0 +1,8 @@
+Y:\2013年度\2013年度作成プログラム\MailManager\bin\Debug\MailManager.dll
+Y:\2013年度\2013年度作成プログラム\MailManager\bin\Debug\MailManager.pdb
+Y:\2013年度\2013年度作成プログラム\MailManager\obj\Debug\MailManager.dll
+Y:\2013年度\2013年度作成プログラム\MailManager\obj\Debug\MailManager.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\MailManager\bin\Debug\MailManager.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\MailManager\bin\Debug\MailManager.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\MailManager\obj\Debug\MailManager.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\MailManager\obj\Debug\MailManager.pdb

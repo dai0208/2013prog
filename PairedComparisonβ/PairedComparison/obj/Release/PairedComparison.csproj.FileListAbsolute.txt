@@ -1,0 +1,32 @@
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\bin\Release\PairedComparison.exe
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\bin\Release\PairedComparison.pdb
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Release\ResolveAssemblyReference.cache
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Release\PairedComparison.fmBack.resources
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Release\PairedComparison.fmLoadFolder.resources
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Release\PairedComparison.fmStart.resources
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Release\PairedComparison.Properties.Resources.resources
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Release\PairedComparison.csproj.GenerateResource.Cache
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Release\PairedComparison.exe
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Release\PairedComparison.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Release\PairedComparison.fmBack.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Release\PairedComparison.fmLoadFolder.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Release\PairedComparison.fmStart.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Release\PairedComparison.Properties.Resources.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Release\PairedComparison.csproj.GenerateResource.Cache
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Release\PairedComparison.exe
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\bin\Release\PairedComparison.exe
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\bin\Release\PairedComparison.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Release\PairedComparison.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\bin\Release\PairedComparison.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\bin\Release\MailManager.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\bin\Release\MailManager.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Release\PairedComparison.csprojResolveAssemblyReference.cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Release\PairedComparison.fmBack.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Release\PairedComparison.fmLoadFolder.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Release\PairedComparison.fmStart.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Release\PairedComparison.Properties.Resources.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Release\PairedComparison.csproj.GenerateResource.Cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Release\PairedComparison.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Release\PairedComparison.exe
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\bin\Release\PairedComparison.exe

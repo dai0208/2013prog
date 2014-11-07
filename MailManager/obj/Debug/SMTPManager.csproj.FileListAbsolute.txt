@@ -1,0 +1,5 @@
+C:\Users\WhiteRabbit\documents\visual studio 2010\Projects\SMTPManager\bin\Debug\MailManager.dll
+C:\Users\WhiteRabbit\documents\visual studio 2010\Projects\SMTPManager\bin\Debug\MailManager.pdb
+C:\Users\WhiteRabbit\documents\visual studio 2010\Projects\SMTPManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WhiteRabbit\documents\visual studio 2010\Projects\SMTPManager\obj\Debug\MailManager.dll
+C:\Users\WhiteRabbit\documents\visual studio 2010\Projects\SMTPManager\obj\Debug\MailManager.pdb

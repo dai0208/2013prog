@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MailManager">
+</Property><Property Name="ソリューション ファイル" Value="Y:\2013年度\2013年度作成プログラム\MailManager\MailManager.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="Y:\2013年度\2013年度作成プログラム\MailManager\MailManager.suo">
+</Property><Property Name="Date" Value="2013年12月10日">
+</Property><Property Name="Time" Value="16:33">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MailManager.sln" Description="ファイルは正常に Y:\2013年度\2013年度作成プログラム\MailManager\Backup\MailManager.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="MailManager.suo" Description="ファイルは正常に Y:\2013年度\2013年度作成プログラム\MailManager\Backup\MailManager.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MailManager" Source="MailManager.csproj" Description="プロジェクト ファイルは正常に Y:\2013年度\2013年度作成プログラム\MailManager\Backup\MailManager.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MailManager" Source="SendMail.cs" Description="ファイルは正常に Y:\2013年度\2013年度作成プログラム\MailManager\Backup\SendMail.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MailManager" Source="Properties\AssemblyInfo.cs" Description="ファイルは正常に Y:\2013年度\2013年度作成プログラム\MailManager\Backup\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MailManager" Source="MailManager.csproj" Description="プロジェクト ファイルは変換する必要がありません。">
+</Event><Event ErrorLevel="3" Project="MailManager" Source="MailManager.csproj" Description="変換の必要はありません">
+</Event><Event ErrorLevel="0" Project="" Source="MailManager.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="MailManager.sln" Description="Converted">
+</Event></UpgradeLog>

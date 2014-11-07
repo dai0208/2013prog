@@ -1,0 +1,118 @@
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\bin\Debug\PairedComparison.exe
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\bin\Debug\PairedComparison.pdb
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Debug\ResolveAssemblyReference.cache
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Debug\PairedComparison.Properties.Resources.resources
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Debug\PairedComparison.csproj.GenerateResource.Cache
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Debug\PairedComparison.exe
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Debug\PairedComparison.pdb
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Debug\PairedComparison.fmBack.resources
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Debug\PairedComparison.fmStart.resources
+H:\Documents and Settings\shiro\My Documents\Visual Studio 2008\Projects\PairedComparison\PairedComparison\obj\Debug\PairedComparison.fmLoadFolder.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Debug\PairedComparison.exe
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Debug\PairedComparison.pdb
+F:\PairedComparison\PairedComparison\obj\Debug\PairedComparison.exe
+F:\PairedComparison\PairedComparison\obj\Debug\PairedComparison.pdb
+H:\PairedComparison\PairedComparison\obj\Debug\PairedComparison.exe
+H:\PairedComparison\PairedComparison\obj\Debug\PairedComparison.pdb
+F:\稲葉作成プログラム\PairedComparison\PairedComparison\obj\Debug\PairedComparison.exe
+F:\稲葉作成プログラム\PairedComparison\PairedComparison\obj\Debug\PairedComparison.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.02)\PairedComparison\PairedComparison\obj\Debug\PairedComparison.exe
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.02)\PairedComparison\PairedComparison\obj\Debug\PairedComparison.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.02)\PairedComparison\PairedComparison\bin\Debug\PairedComparison.exe
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.02)\PairedComparison\PairedComparison\bin\Debug\PairedComparison.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.02)\PairedComparison\PairedComparison\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.02)\PairedComparison\PairedComparison\obj\Debug\PairedComparison.fmBack.resources
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.02)\PairedComparison\PairedComparison\obj\Debug\PairedComparison.fmLoadFolder.resources
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.02)\PairedComparison\PairedComparison\obj\Debug\PairedComparison.fmStart.resources
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.02)\PairedComparison\PairedComparison\obj\Debug\PairedComparison.Properties.Resources.resources
+C:\Documents and Settings\e05d5022\デスクトップ\Project(08.12.02)\PairedComparison\PairedComparison\obj\Debug\PairedComparison.csproj.GenerateResource.Cache
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Debug\PairedComparison.fmBack.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Debug\PairedComparison.fmLoadFolder.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Debug\PairedComparison.fmStart.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Debug\PairedComparison.Properties.Resources.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\obj\Debug\PairedComparison.csproj.GenerateResource.Cache
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\bin\Debug\PairedComparison.exe
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison\PairedComparison\bin\Debug\PairedComparison.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.exe
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison河内改訂版\PairedComparison\bin\Debug\PairedComparison.exe
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison河内改訂版\PairedComparison\bin\Debug\PairedComparison.pdb
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison河内改訂版\PairedComparison\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.fmBack.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.fmLoadFolder.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.fmStart.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.Properties.Resources.resources
+C:\Documents and Settings\e05d5022\デスクトップ\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.csproj.GenerateResource.Cache
+C:\Documents and Settings\shiro\デスクトップ\Project(09.01.23)\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.exe
+C:\Documents and Settings\shiro\デスクトップ\Project(09.01.23)\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(09.01.23)\PairedComparison河内改訂版\PairedComparison\bin\Debug\PairedComparison.exe
+C:\Documents and Settings\shiro\デスクトップ\Project(09.01.23)\PairedComparison河内改訂版\PairedComparison\bin\Debug\PairedComparison.pdb
+C:\Documents and Settings\shiro\デスクトップ\Project(09.01.23)\PairedComparison河内改訂版\PairedComparison\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shiro\デスクトップ\Project(09.01.23)\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.fmBack.resources
+C:\Documents and Settings\shiro\デスクトップ\Project(09.01.23)\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.fmLoadFolder.resources
+C:\Documents and Settings\shiro\デスクトップ\Project(09.01.23)\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.fmStart.resources
+C:\Documents and Settings\shiro\デスクトップ\Project(09.01.23)\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.Properties.Resources.resources
+C:\Documents and Settings\shiro\デスクトップ\Project(09.01.23)\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.csproj.GenerateResource.Cache
+E:\My Document\Visual Studio 2008\Project\2008年度作成\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.exe
+E:\My Document\Visual Studio 2008\Project\2008年度作成\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.pdb
+E:\My Document\Visual Studio 2008\Project\2008年度作成\PairedComparison河内改訂版\PairedComparison\obj\Debug\ResolveAssemblyReference.cache
+E:\My Document\Visual Studio 2008\Project\2008年度作成\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.fmBack.resources
+E:\My Document\Visual Studio 2008\Project\2008年度作成\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.fmLoadFolder.resources
+E:\My Document\Visual Studio 2008\Project\2008年度作成\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.fmStart.resources
+E:\My Document\Visual Studio 2008\Project\2008年度作成\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.Properties.Resources.resources
+E:\My Document\Visual Studio 2008\Project\2008年度作成\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.csproj.GenerateResource.Cache
+E:\My Document\Visual Studio 2008\Project\2008年度作成\PairedComparison河内改訂版\PairedComparison\bin\Debug\PairedComparison.exe
+E:\My Document\Visual Studio 2008\Project\2008年度作成\PairedComparison河内改訂版\PairedComparison\bin\Debug\PairedComparison.pdb
+Z:\2008年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.exe
+Z:\2008年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.pdb
+Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.exe
+Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.pdb
+Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison\bin\Debug\PairedComparison.exe
+Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison\bin\Debug\PairedComparison.pdb
+Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.fmBack.resources
+Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.fmLoadFolder.resources
+Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.fmStart.resources
+Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.Properties.Resources.resources
+Y:\2010年度\2008年度作成プログラム\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.csproj.GenerateResource.Cache
+G:\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.exe
+G:\PairedComparison河内改訂版\PairedComparison\obj\Debug\PairedComparison.pdb
+F:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.exe
+F:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.pdb
+E:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.exe
+E:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.pdb
+E:\PairedComparison荒井改訂版\PairedComparison\bin\Debug\PairedComparison.exe
+E:\PairedComparison荒井改訂版\PairedComparison\bin\Debug\PairedComparison.pdb
+E:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\ResolveAssemblyReference.cache
+E:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.fmBack.resources
+E:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.fmLoadFolder.resources
+E:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.fmStart.resources
+E:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.Properties.Resources.resources
+E:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\GenerateResource.read.1.tlog
+E:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\GenerateResource.write.1.tlog
+G:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.exe
+G:\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.exe
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\bin\Debug\PairedComparison.exe
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\bin\Debug\PairedComparison.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\bin\Debug\MailManager.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\bin\Debug\MailManager.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.csprojResolveAssemblyReference.cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.fmBack.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.fmLoadFolder.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.fmStart.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.Properties.Resources.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparison荒井改訂版\PairedComparison\obj\Debug\PairedComparison.csproj.GenerateResource.Cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparisonβ\PairedComparison\obj\Debug\PairedComparison.exe
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparisonβ\PairedComparison\obj\Debug\PairedComparison.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparisonβ\PairedComparison\bin\Debug\PairedComparison.exe
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparisonβ\PairedComparison\bin\Debug\PairedComparison.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparisonβ\PairedComparison\bin\Debug\MailManager.dll
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparisonβ\PairedComparison\bin\Debug\MailManager.pdb
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparisonβ\PairedComparison\obj\Debug\PairedComparison.csprojResolveAssemblyReference.cache
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparisonβ\PairedComparison\obj\Debug\PairedComparison.fmBack.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparisonβ\PairedComparison\obj\Debug\PairedComparison.fmLoadFolder.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparisonβ\PairedComparison\obj\Debug\PairedComparison.fmStart.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparisonβ\PairedComparison\obj\Debug\PairedComparison.Properties.Resources.resources
+Y:\2013年度\B4\荒井(雄)\つくったプログラム\PairedComparisonβ\PairedComparison\obj\Debug\PairedComparison.csproj.GenerateResource.Cache

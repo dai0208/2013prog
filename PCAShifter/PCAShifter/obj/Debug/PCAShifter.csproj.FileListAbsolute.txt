@@ -1,0 +1,8 @@
+C:\Users\yvgqi\Documents\Visual Studio 2010\Projects\PCAShifter\PCAShifter\bin\Debug\PCAShifter.dll
+C:\Users\yvgqi\Documents\Visual Studio 2010\Projects\PCAShifter\PCAShifter\bin\Debug\PCAShifter.pdb
+C:\Users\yvgqi\Documents\Visual Studio 2010\Projects\PCAShifter\PCAShifter\bin\Debug\MatrixVector.dll
+C:\Users\yvgqi\Documents\Visual Studio 2010\Projects\PCAShifter\PCAShifter\bin\Debug\MatrixVector.pdb
+C:\Users\yvgqi\Documents\Visual Studio 2010\Projects\PCAShifter\PCAShifter\bin\Debug\MatrixVector.xml
+C:\Users\yvgqi\Documents\Visual Studio 2010\Projects\PCAShifter\PCAShifter\obj\Debug\PCAShifter.csprojResolveAssemblyReference.cache
+C:\Users\yvgqi\Documents\Visual Studio 2010\Projects\PCAShifter\PCAShifter\obj\Debug\PCAShifter.dll
+C:\Users\yvgqi\Documents\Visual Studio 2010\Projects\PCAShifter\PCAShifter\obj\Debug\PCAShifter.pdb
