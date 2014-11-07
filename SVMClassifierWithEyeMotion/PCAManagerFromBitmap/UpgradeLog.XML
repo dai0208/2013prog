@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PCAManagerFromBitmap">
+</Property><Property Name="ソリューション ファイル" Value="Y:\2010年度\2008年度作成プログラム\PCAManagerFromBitmap\PCAManagerFromBitmap.sln">
+</Property><Property Name="Date" Value="2013年11月21日">
+</Property><Property Name="Time" Value="12:30:11">
+</Property></Properties><Event ErrorLevel="0" Project="PCAManagerFromBitmap" Source="PCAManagerFromBitmap.csproj" Description="プロジェクト ファイルは正常に Y:\2010年度\2008年度作成プログラム\PCAManagerFromBitmap\Backup\PCAManagerFromBitmap.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PCAManagerFromBitmap" Source="CreateVectorFromBitmap.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PCAManagerFromBitmap\Backup\CreateVectorFromBitmap.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PCAManagerFromBitmap" Source="PCAManagerFromBitmap.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PCAManagerFromBitmap\Backup\PCAManagerFromBitmap.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PCAManagerFromBitmap" Source="Properties\AssemblyInfo.cs" Description="ファイルは正常に Y:\2010年度\2008年度作成プログラム\PCAManagerFromBitmap\Backup\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PCAManagerFromBitmap" Source="PCAManagerFromBitmap.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="PCAManagerFromBitmap" Source="PCAManagerFromBitmap.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PCAManagerFromBitmap" Source="PCAManagerFromBitmap.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>
